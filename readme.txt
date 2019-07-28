@@ -12,3 +12,4 @@ Rules :
 
 Developed by : Keshav Kabra
 	(keshavkabra118@gmail.com)
+	(keshavkabra.official@gmail.com)
